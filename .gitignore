@@ -1,0 +1,27 @@
+# ================================
+# SECRETOS Y ENTORNOS — NUNCA al repo
+# ================================
+.env
+*.env
+!*.env.example
+
+# ================================
+# DOCKER — Archivos de runtime local
+# ================================
+# Sobreescrituras locales de Compose
+docker-compose.override.yml
+
+# ================================
+# SISTEMAS OPERATIVOS
+# ================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ================================
+# EDITORES
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
