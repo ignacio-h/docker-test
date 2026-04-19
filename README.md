@@ -13,8 +13,8 @@ y notas técnicas propias.
 | Bloque | Tema                          | Estado |
 |--------|-------------------------------|--------|
 | 00     | Fundamentos conceptuales      | ✅     |
-| 01     | Primeros pasos y CLI          | ⏳     |
-| 02     | Dockerfile                    | ⬜     |
+| 01     | Primeros pasos y CLI          | ✅     |
+| 02     | Dockerfile                    | ⏳     |
 | 03     | Redes                         | ⬜     |
 | 04     | Volúmenes y persistencia      | ⬜     |
 | 05     | Docker Compose                | ⬜     |
